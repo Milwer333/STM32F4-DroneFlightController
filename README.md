@@ -11,6 +11,7 @@ ___
 * MPU-6000 6-axis IMU
 * Hybrid construction (Flight Controller & Power Distribution Board)
 * USB Type-C
+* SBUS inverter
 * Debugging tools
 * Designed with Betaflight support in mind
 * Test firmware (STM32CubeIDE)
