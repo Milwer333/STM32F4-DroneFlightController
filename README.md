@@ -17,3 +17,5 @@ ___
 ___
 
 **Disclaimer:** The flight controller prototype is currently missing the IMU unit due to global semiconductor shortage
+
+BSD 3-Clause License - Copyright (c) 2022, Miłosz Werner - All rights reserved.
